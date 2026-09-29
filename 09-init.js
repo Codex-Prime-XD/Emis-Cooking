@@ -1,0 +1,3 @@
+/* ================= INIT ================= */
+applyLang("fr");
+flashLangSwitch();
